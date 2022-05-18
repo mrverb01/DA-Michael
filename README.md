@@ -1,4 +1,4 @@
-# Homework Module 2
+# Homework Module 1
 ## 1.Overview of Project
 Help Louise how the different campaigns fared in relation to their launch dates and their funding goals.
 
@@ -7,11 +7,9 @@ I followed the module step by step to guide in the development of the excel work
 
 ## 3.Results
 What are two conclusions you can draw about the Theater Outcomes by Launch Date?
- - point 1
- - point 2
- What can you conclude about the Outcomes based on Goals?
- - point
- What are some limitations of this dataset?
- - point
- What are some other possible tables and/or graphs that we could create?
- - point
+
+What can you conclude about the Outcomes based on Goals?
+
+What are some limitations of this dataset?
+
+What are some other possible tables and/or graphs that we could create?
